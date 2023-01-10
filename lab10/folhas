@@ -1,0 +1,28 @@
+inserir 8
+inserir 3
+inserir 7
+inserir 1
+inserir 4
+inserir 5
+inserir 13
+inserir 14
+inserir 10
+inserir 12
+inserir 0
+inserir 2
+em-ordem
+remover 0
+remover 2
+remover 5
+remover 14
+remover 12
+remover 10
+remover 13
+remover 4
+remover 7
+remover 1
+remover 3
+em-ordem
+remover 8
+em-ordem
+terminar
